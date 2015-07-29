@@ -1,0 +1,27 @@
+{
+  "name": "BT_201507_mq_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "rabbit.js": "^0.4.4",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyuqi/BT_201507_mq_prac.git"
+  },
+  "keywords": [
+    "mq"
+  ],
+  "author": "liyuqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyuqi/BT_201507_mq_prac/issues"
+  },
+  "homepage": "https://github.com/liyuqi/BT_201507_mq_prac"
+}
